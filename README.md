@@ -38,4 +38,4 @@ Screen Capture API work on only SSL server.
 
 ### License
 Copyright (c) 2013 Ryosuke Tsuji at Site Sctivity Group in CWD
-Licensed under the [MIT license](https://github.com/thujikun/screen-share/browse/LICENSE_MIT).
+Licensed under the [MIT license](https://github.com/thujikun/screen-share/blob/master/LICENSE_MIT).
